@@ -115,4 +115,5 @@ Sivadhanya S
 Computer Science and Engineering Student
 Email: sivadhanya5757@gmail.com
 LinkedIn: www.linkedin.com/in/sivadhanya-s-432a7425a
-GitHub: GitHub: https://github.com/Sivadhanya08/Annotation_Practice
+GitHub: GitHub: https://github.com/Sivadhanya08/Sign_Language_Annotation
+
